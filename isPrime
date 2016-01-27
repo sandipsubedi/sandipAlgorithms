@@ -2,8 +2,7 @@ public static void main(String[] args) {
 
         System.out.println(isPrime(100));
 
-    
-    }
+       }
                 
     
     private static boolean isPrime(int num) {
