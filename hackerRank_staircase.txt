@@ -17,6 +17,9 @@ Print a staircase of height NN that consists of # symbols and spaces. For exampl
 
 Note: The last line has 0 spaces before it. 
 
+************************************************
+Time Complexity : O(N)
+
 
 import java.io.*;
 import java.util.*;
