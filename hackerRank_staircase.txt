@@ -1,4 +1,4 @@
-Source: https://www.hackerrank.com/challenges/staircase:
+/* Source: https://www.hackerrank.com/challenges/staircase:
 
 Your teacher has given you the task of drawing a staircase structure. Being an expert programmer, you decided to make a program to draw it for you instead. Given the required height, can you print a staircase as shown in the example?
 
@@ -19,7 +19,7 @@ Note: The last line has 0 spaces before it.
 
 ************************************************
 Time Complexity : O(N)
-
+*/
 
 import java.io.*;
 import java.util.*;
